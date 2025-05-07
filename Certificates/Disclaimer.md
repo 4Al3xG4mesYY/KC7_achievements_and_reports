@@ -3,3 +3,6 @@
 >
 > - [Frognado In Valdoria](https://kc7cyber.com/badges/earned/9359)
 > - [Balloons Over Iowa](https://kc7cyber.com/badges/earned/9583)
+> - [Critical Compromise (ICS)](https://kc7cyber.com/badges/earned/9632)
+> - [Solvi Systems](https://kc7cyber.com/badges/earned/9702)
+> - [AzureCrest](https://kc7cyber.com/badges/earned/9834)
